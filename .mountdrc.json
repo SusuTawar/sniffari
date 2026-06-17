@@ -1,0 +1,60 @@
+{
+  "agents": [
+    "codex",
+    "claude",
+    "generic"
+  ],
+  "installed": [
+    {
+      "name": "prd-generator",
+      "source": "https://github.com/meganopus/pdlc/tree/main/skills/prd-generator",
+      "type": "skill",
+      "installedAt": "2026-06-17T12:41:05.009Z"
+    },
+    {
+      "name": "fsd-generator",
+      "source": "https://github.com/meganopus/pdlc/tree/main/skills/fsd-generator",
+      "type": "skill",
+      "installedAt": "2026-06-17T12:41:05.028Z"
+    },
+    {
+      "name": "tech-stack",
+      "source": "https://github.com/meganopus/pdlc/tree/main/skills/tech-stack",
+      "type": "skill",
+      "installedAt": "2026-06-17T12:41:05.043Z"
+    },
+    {
+      "name": "erd-generator",
+      "source": "https://github.com/meganopus/pdlc/tree/main/skills/erd-generator",
+      "type": "skill",
+      "installedAt": "2026-06-17T12:41:05.059Z"
+    },
+    {
+      "name": "story-generator",
+      "source": "https://github.com/meganopus/pdlc/tree/main/skills/story-generator",
+      "type": "skill",
+      "installedAt": "2026-06-17T12:41:05.078Z"
+    },
+    {
+      "name": "project-kickoff-light",
+      "source": "https://github.com/meganopus/pdlc/tree/main/workflows/project-kickoff-light.md",
+      "type": "skill",
+      "legacyType": "workflow",
+      "installedAt": "2026-06-17T12:41:05.099Z"
+    },
+    {
+      "name": "add-feature-light",
+      "source": "https://github.com/meganopus/pdlc/tree/main/workflows/add-feature-light.md",
+      "type": "skill",
+      "legacyType": "workflow",
+      "installedAt": "2026-06-17T12:41:05.112Z"
+    },
+    {
+      "name": "start-story",
+      "source": "https://github.com/meganopus/pdlc/tree/main/workflows/start-story.md",
+      "type": "skill",
+      "legacyType": "workflow",
+      "installedAt": "2026-06-17T12:41:05.129Z"
+    }
+  ]
+}
